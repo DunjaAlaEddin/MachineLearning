@@ -1,5 +1,9 @@
-# Machine Learning
+# Machine Learning Libraries
 
-## supervised learning
-
-### regression
+## Scikit-Learn
+## TensorFlow
+## PyTorch
+## Keras
+## CUDA
+## Pandas
+## Numpy
