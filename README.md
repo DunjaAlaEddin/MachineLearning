@@ -8,3 +8,6 @@
 - CUDA
 - Pandas
 - Numpy
+
+1. Project: 
+
