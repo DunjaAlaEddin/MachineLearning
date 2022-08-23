@@ -1,7 +1,7 @@
 # Machine Learning Projects
 
-## Libraries used:
+## Libraries Used:
 Scikit-Learn, TensorFlow, PyTorch, Keras, CUDA, Pandas, Numpy
 
-1. Project: 
+## 1. Project: 
 
